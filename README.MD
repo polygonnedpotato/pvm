@@ -1,1 +1,1 @@
-pvm is a virtualisation framework that will be meant to use shared libraries for the best VM Experience.
+pvm is a virtualisation engine that will be meant to use shared libraries for the best VM Experience.
